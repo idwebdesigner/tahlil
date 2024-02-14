@@ -835,14 +835,14 @@ color: #2c2c2c !important;
     .fix-menu {
         position: fixed;
         bottom: 10px;
-        left: 20px;
-        margin-right: 20px;
+        left: 50%;
         z-index: 999;
         height: 40px;
         width: 90%;
         background-color: #cdd4e0;
         border-radius: 38px;
         opacity: 0.9;
+        transform: translate(-50%, 0%);
     }
     .gototop3 {
         position: fixed;
