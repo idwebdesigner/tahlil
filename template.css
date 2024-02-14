@@ -733,6 +733,7 @@ color: #2c2c2c !important;
         background-color: #fff;
         transform: translateX(-200px);
         opacity: 0;
+        display:none;
     }
 
     #ucapan_tamu {
