@@ -13,8 +13,8 @@ React.createElement("li", null, /*#__PURE__*/React.createElement(Link, { to: "/d
 
 
 React.createElement("div", null, /*#__PURE__*/
-React.createElement(Route, { path: "/dashboard", component: Dashboard }), /*#__PURE__*/
-React.createElement(Route, { path: "/profile", component: Profile })));
+React.createElement(Route, { path: "/dist/dashboard", component: Dashboard }), /*#__PURE__*/
+React.createElement(Route, { path: "/dist/profile", component: Profile })));
 
 
 
