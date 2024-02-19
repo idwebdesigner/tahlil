@@ -1192,11 +1192,12 @@ button.trigger span::before {
 /* Media Queries */
 @media screen and (max-width: 47em) {
 	.title, .content {
-		font-size: 100%;
+		font-size: 70%;
 	}
 
 	.content {
 		margin: 300px auto;
+		font-size: 100%;
 	}
 
 	.pertama {
@@ -1257,7 +1258,7 @@ button.trigger span::before {
 		transform: translateX(-50%);
 	}
 
-	.title, .content {
+	.title {
 		font-size: 50%;
 	}
 
