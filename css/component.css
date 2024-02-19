@@ -1261,8 +1261,12 @@ button.trigger span::before {
 		font-size: 100%;
 	}
 
+	.content {
+		margin: 400px auto;
+	}
+
 	.pertama {
-		margin-top: 200px;
+		margin-top: 400px;
 	}
 
 	button.trigger::before {
