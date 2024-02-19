@@ -1204,6 +1204,10 @@ button.trigger span::before {
 		margin-top: 200px;
 	}
 
+	.intro-effect-grid .header p.subline {
+		font-size: 110%;
+	}
+
 	.codrops-demos a {
 		font-size: 80%;
 	}
