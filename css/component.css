@@ -1195,6 +1195,10 @@ button.trigger span::before {
 		font-size: 100%;
 	}
 
+	.pertama {
+		margin-top: 100px;
+	}
+
 	.codrops-demos a {
 		font-size: 80%;
 	}
