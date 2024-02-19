@@ -19,7 +19,7 @@ React.createElement(Route, { path: "/dist/profile", component: Profile })));
 
 
 
-const Dashboard = () => /*#__PURE__*/React.createElement("h2", null, "You are in the Dashboard");
+const Dashboard = () => /*#__PURE__*/React.createElement("h2", null, "Yasin sedang disiapkan");
 const Profile = () => /*#__PURE__*/React.createElement("h2", null, "You are in the Profile");
 
 
